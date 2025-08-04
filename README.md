@@ -2,14 +2,6 @@
 
 Simple Chrome/Edge extension that removes YouTube's video UI for clean viewing.
 
-
-## 🚀 Features
-
-- Press `H` to toggle video UI
-- Removes overlays, gradients, controls, and clutter
-- Works instantly on any YouTube video page
-
-
 ## 🛠️ Installation
 
 ### Chrome / Edge / Brave / Opera
